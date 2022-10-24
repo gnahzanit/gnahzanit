@@ -2,10 +2,10 @@
 
 ## My name is Tina Zhang
 - I am a student at University of Toronto, St.George Campus studying for Computer Science Specialist, English Minor, and Mathematics Minor.
-- I am also an Illustrator, Designer, and Game Developer on the side.
+- I am also a self-taught Illustrator, Designer, and Game Developer.
 
 ### You can reach me via:
 Email: TinaZhang1650@gmail.com
 Linkedin: https://www.linkedin.com/in/tinazhang1650/
 
-**[![Tina's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnahzanit)](https://github.com/gnahzanit/github-readme-stats)**
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
